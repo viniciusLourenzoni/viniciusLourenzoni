@@ -1,4 +1,4 @@
-# 💫 Sobre mim:
+# 💫 About me:
 🔭 Analista de Software na XPERT.<br>⚡ Entusiasta na área de programação.<br>💻 Técnico em Análise e Desenvolvimento de Sistemas.<br>🌱 Cursando Bacharel em Sistemas de Informação (4º Período)
 
 
