@@ -1,6 +1,6 @@
 # 💫 About me:
 
-🔭 Software Analyst at XPERT. <br>
+🔭 Web developer at XPERT. <br>
 ⚡ Enthusiastic in programming. <br>
 💻 Systems Analysis and Development Technician. <br>
 🌱 Studying Bachelor of Information Systems (4th Period) <br>
